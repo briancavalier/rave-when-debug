@@ -1,0 +1,17 @@
+{
+  "name": "rave-when-debug",
+  "version": "0.0.1",
+  "description": "Enable when.js promise monitoring",
+  "main": "rave",
+  "rave": "rave",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rave",
+    "cujo",
+    "when"
+  ],
+  "author": "brian@hovercraftstudios.com",
+  "license": "MIT"
+}
