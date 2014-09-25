@@ -1,6 +1,6 @@
 {
   "name": "rave-when-debug",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Enable when.js promise monitoring",
   "main": "rave",
   "rave": "rave",
@@ -13,6 +13,9 @@
     "when",
     "rave-extension"
   ],
+  "peerDependencies": {
+    "rave": "~0.4"
+  },
   "author": "brian@hovercraftstudios.com",
   "license": "MIT"
 }

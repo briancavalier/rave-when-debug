@@ -1,6 +1,6 @@
 {
   "name": "rave-when-debug",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "authors": [
     "Brian Cavalier <brian@hovercraftstudios.com>"
   ],
@@ -15,6 +15,9 @@
     "when",
     "rave-extension"
   ],
+  "dependencies": {
+    "rave": "~0.4"
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
